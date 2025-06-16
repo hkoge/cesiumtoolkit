@@ -50,7 +50,7 @@ Optional but recommended: [uv](https://github.com/astral-sh/uv) for fast depende
 
 
 1. **Download the package**
-   Either clone from [[GitHub](https://github.com/hkoge/cesiumtoolkit.git) or download the ZIP archive from our [Zenodo release](https://doi.org/xxxxxxx):
+   Either clone from [[GitHub](https://github.com/hkoge/cesiumtoolkit.git)] or download the ZIP archive from our [Zenodo release](https://doi.org/xxxxxxx):
 
 ```bash
 # Option 1: GitHub
