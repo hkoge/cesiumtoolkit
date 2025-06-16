@@ -1,5 +1,5 @@
 [project]
-name = "cesiumtoolkit"
+name = "shipmagtoolkit"
 version = "0.1.0"
 description = "Toolkit for processing shipboard cesium magnetometer data"
 readme = "README.md"
