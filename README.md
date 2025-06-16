@@ -1,6 +1,6 @@
-# CesiumToolkit
+# ShipMagToolkit
 
-**CesiumToolkit** is a Python core package for **converting, correcting** shipborne cesium/proton magnetometer data.  It reproduces the full workflow from raw logs to publication‑ready figures while staying compatible with GMT/x2sys utilities.
+**ShipMagToolkit** is a Python core package for **converting, correcting** shipborne cesium/proton magnetometer data.  It reproduces the full workflow from raw logs to publication‑ready figures while staying compatible with GMT/x2sys utilities.
 
 
 
@@ -29,7 +29,7 @@
 ```
 project-root/
 ├── src/
-│   ├── cesiumtoolkit/             # core Python modules
+│   ├── ShipMagToolkit/             # core Python modules
 │   │   ├── protonraw2anmorg.py
 │   │   ├── cesiumraw2anmorg.py
 │   │   ├── trksplitter.py
@@ -50,16 +50,16 @@ Optional but recommended: [uv](https://github.com/astral-sh/uv) for fast depende
 
 
 1. **Download the package**
-   Either clone from [[GitHub](https://github.com/hkoge/cesiumtoolkit.git)] or download the ZIP archive from our [Zenodo release](https://doi.org/xxxxxxx):
+   Either clone from [[GitHub](https://github.com/hkoge/ShipMagToolkit.git)] or download the ZIP archive from our [Zenodo release](https://doi.org/xxxxxxx):
 
 ```bash
 # Option 1: GitHub
-git clone https://github.com/hkoge/cesiumtoolkit.git
-cd cesiumtoolkit
+git clone https://github.com/hkoge/ShipMagToolkit.git
+cd ShipMagToolkit
 
 # Option 2: Zenodo ZIP
-unzip cesiumtoolkit‑vX.Y.Z.zip
-cd cesiumtoolkit
+unzip ShipMagToolkit‑vX.Y.Z.zip
+cd ShipMagToolkit
 ```
 
 2. **Install dependencies and the package**
